@@ -1,0 +1,5 @@
+Horizon,Best_Model,RMSE,Business_Use
+H24,Naive,1.705,Daily planning
+H48,ETS,2.583,Weekly inventory
+H72,ETS,2.434,Medium-term
+H168,ETS,2.009,Strategic planning
